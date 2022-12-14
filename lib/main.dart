@@ -30,14 +30,17 @@ class MyHomePage extends StatelessWidget {
         builder: (context, constriants){
         if(constriants.maxWidth<=480)
           {
+            // for Mobile Screen Sizes
             return const MobileInterface();
           }
         if(constriants.maxWidth>480 && constriants.maxWidth <= 800)
           {
+            // for Tablet Screen sizes
             return  const TabletInterface();
           }
         else {
-          return const WebInterface();
+            // for Web or Desktop Screen Sizes
+            return const WebInterface();
         }
     });
   }
