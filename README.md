@@ -1,8 +1,14 @@
 # responsive_ui
 
-A new Flutter project.
+A new Flutter project that shos how to build a **Responsive UI** using **LayoutBuilder** in Flutter.
+
+You can watch the episode on **YouTube** , link: https://youtu.be/Q7HjTsNLAbU
+
+![responsiceThumb](https://user-images.githubusercontent.com/36349126/207666386-62ad8bc4-12e2-4ed1-949c-5b124aae43ba.png)
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
