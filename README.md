@@ -11,8 +11,8 @@ I added a plugin or package that allows you as a developer to preview your **Flu
 you can watch the episode on **YouTube** , link :
 https://youtu.be/72U5_gTXkPc
 
+![thumb2](https://user-images.githubusercontent.com/36349126/208252925-296532e1-9a6d-4ded-b4d2-8f43222c0210.png)
 
-![thumb](https://user-images.githubusercontent.com/36349126/208252788-5bdd922c-f61d-4e45-88cc-2030176914d9.png)
 
 ## Getting Started
 
