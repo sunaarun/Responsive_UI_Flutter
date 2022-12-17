@@ -6,6 +6,14 @@ You can watch the episode on **YouTube** , link: https://youtu.be/Q7HjTsNLAbU
 
 ![responsiceThumb](https://user-images.githubusercontent.com/36349126/207666386-62ad8bc4-12e2-4ed1-949c-5b124aae43ba.png)
 
+I added a plugin or package that allows you as a developer to preview your **Flutter App** on any device using **device_preview** package.
+
+you can watch the episode on **YouTube** , link :
+https://youtu.be/72U5_gTXkPc
+
+
+![thumb](https://user-images.githubusercontent.com/36349126/208252788-5bdd922c-f61d-4e45-88cc-2030176914d9.png)
+
 ## Getting Started
 
 
